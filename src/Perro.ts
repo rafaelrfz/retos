@@ -1,4 +1,4 @@
-import Animal = require('./Animal');
+import Animal from'./Animal';
 
 class Perro extends Animal {
     ladrar(nombre:string) {
@@ -6,4 +6,4 @@ class Perro extends Animal {
     }
 }
 
-export = Perro;
+export default Perro;

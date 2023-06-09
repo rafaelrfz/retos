@@ -1,5 +1,5 @@
-import Perro = require('./Perro');
-import Gato = require('./Gato');
+import Perro from './Perro';
+import Gato from './Gato';
 
 const miPerro = new Perro("Pekis", 14);
 const miGato = new Gato("Tommy", 7);

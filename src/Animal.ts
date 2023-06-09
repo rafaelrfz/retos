@@ -12,4 +12,4 @@ class Animal {
     }
   }
 
-export = Animal;
+export default Animal;
